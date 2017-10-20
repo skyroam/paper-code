@@ -1,2 +1,1 @@
-# paper-code
-A repository that collects paper code in AI
+## Paper code-A repository that collects paper code in AI
